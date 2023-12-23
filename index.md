@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <script>
-  var password = "69passwords";
+  var password = "xd";
   (function promptPass() {
     var psw = prompt("Enter your Password");
     while (psw !== password) {
